@@ -4,7 +4,7 @@ Old men forget: yet all shall be forgot, <br />
 But he’ll remember with advantages <br />
 What feats he did that day: then shall our names. <br />
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{DALEE9000}/count.svg)
 
 <!--
 **DALEE9000/DALEE9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
