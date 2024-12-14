@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Old men forget: yet all shall be forgot,
+But he’ll remember with advantages
+What feats he did that day: then shall our names.
+
 <!--
 **DALEE9000/DALEE9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
