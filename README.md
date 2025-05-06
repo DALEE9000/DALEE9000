@@ -16,7 +16,7 @@ What feats he did that day: then shall our names. <br/>
 
 ## About me
 
-🌪 I am a researcher in climate physics, focusing on extreme weather prognostication and the effects of storms on economic infrastructure. <br/>
+🌪 I am a researcher at Columbia University's Lamont-Doherty Earth Observatory in physical oceanography. My research interests span in atmospheric and oceanographic physics, focusing on extreme weather prognostication and the effects of storms on economic infrastructure. <br/>
 
 💰 Recently, I taught microeconomics and the political economics of money and banking at Adelphi University in Garden City, New York. <br/>
 
