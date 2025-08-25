@@ -16,9 +16,13 @@ What feats he did that day: then shall our names. <br/>
 
 ## About me
 
-🌪 I am a researcher at Columbia University's Lamont-Doherty Earth Observatory in physical oceanography. My research interests span in atmospheric and oceanographic physics, focusing on coastal oceanography. I'm seeking to learn more about extreme weather prognostication and the effects of storms on economic infrastructure. <br/>
+I wear two hats:
 
-💰 Recently, I taught microeconomics and the political economics of money and banking at Adelphi University in Garden City, New York. <br/>
+📊 I work as a Budget and Ecomomic Policy Analyst at the Center for New York City Affairs in downtown Manhattan. My portfolio entails research into fiscal policy in New York State and New York City, as well as developing financial models for policies such as expanding child care access for New York City parents.
+
+🌪 I am also a researcher at Columbia University's Lamont-Doherty Earth Observatory in physical oceanography. My research interests span in atmospheric and oceanographic physics, focusing on coastal oceanography, ML techniques in downscaling and inferring high resolution data, and submesoscale energy transfer. I'm seeking to learn more about extreme weather prognostication and the effects of storms on economic infrastructure. <br/>
+
+💰 I am back at Adelphi University in Garden City, New York for the Fall 2025 semester to teach a class on environmental economics. In Fall 2024, I taught microeconomics and the political economics of money and banking. <br/>
 
 🏛 In my past life, I served as the Legislative Director for Assemblymember Ron Kim of the New York State Legislature, and wrote some laws for New York State. <br/>
 
